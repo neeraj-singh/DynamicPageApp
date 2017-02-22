@@ -5,5 +5,6 @@ package com.neerajsingh.dynamicpageapp.Constants;
  */
 
 public class Constants {
-    public static final int SimpleTextWidget = 1;
+    public static final int SIMPLE_TEXT_WIDGET = 1;
+    public static final int DESCRIPTION_WIDGET = 2;
 }

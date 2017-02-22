@@ -19,6 +19,6 @@ public class SimpleTextWidgetGenerator extends WidgetGenerator {
 
     @Override
     public int getId() {
-        return Constants.SimpleTextWidget;
+        return Constants.SIMPLE_TEXT_WIDGET;
     }
 }
